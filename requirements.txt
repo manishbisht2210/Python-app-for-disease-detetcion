@@ -1,0 +1,12 @@
+click
+Flask
+Flask-API
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+Numpy
+Scikit-image
+Matplotlib
+Tensorflow
+Skimage
